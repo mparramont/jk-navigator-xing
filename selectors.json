@@ -1,0 +1,10 @@
+{
+    "selectors": [
+        "li.activity-item li a:nth(*)"
+    ],
+    "search_selector": "#search-field",
+    "paginator_selector_next": "#news-feed-get-more",
+    "liveUpdateElement": "#news-feed-home",
+    "infiniteScroll": true
+}
+
