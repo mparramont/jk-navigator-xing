@@ -1,6 +1,6 @@
 {
     "selectors": [
-        "li.activity-item li a:nth(*)"
+        ".activity-text>a:nth(*)"
     ],
     "search_selector": "#search-field",
     "paginator_selector_next": "#news-feed-get-more",
